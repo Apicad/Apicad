@@ -1,4 +1,4 @@
-<img src="assets/pixel-builder-warm.svg" width="100%" alt="Hey, I am Abdiel. Engineer, educator, and curious builder." />
+<img src="assets/pixel-builder-curious.svg" width="100%" alt="Hey, I am Abdiel. Engineer, educator, and curious builder." />
 
 <p align="center">
   <a href="https://patternlearn.com"><b>Try Pattern Learn</b></a> &nbsp; · &nbsp;
@@ -9,9 +9,9 @@
 
 ## Hey, I'm Abdiel 👋
 
-A software engineer, curious builder, and programming educator from South San Francisco. I enjoy figuring out how things work, turning ideas into something you can click, and helping others build their first project.
+I'm a software engineer and a curious builder, always looking to learn something new. I enjoy figuring out how things work, experimenting with ideas, and turning them into something useful.
 
-My path has taken me from teaching Python and wiring Arduino projects with students to building marketing tools at LinkedIn. These days, I'm exploring interactive learning, AI agents, and useful automation. I like projects where I can connect the interface, the code, and the person using it.
+I'm interested in AI engineering, automation, and interactive applications. I like exploring different approaches, asking questions, and learning as I build.
 
 - 🛠️ **Building:** Pattern Learn, agent workflows, and tools that simplify everyday work.
 - 🌱 **Learning:** Computer science at Foothill College, one concept and experiment at a time.
