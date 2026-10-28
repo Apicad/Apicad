@@ -3,16 +3,36 @@
 <p align="center">
   <a href="https://patternlearn.com"><b>Try Pattern Learn</b></a> &nbsp; · &nbsp;
   <a href="https://apicad.github.io/"><b>Explore my portfolio</b></a> &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/in/abdiel-picado/"><b>Connect on LinkedIn</b></a>
+  <a href="https://www.linkedin.com/in/abdiel-picado/"><b>Connect on LinkedIn</b></a> &nbsp; · &nbsp;
+  <a href="https://x.com/abdithenice"><b>Find me on X</b></a>
 </p>
 
-## Hi, I'm Abdiel
+## Hey, I'm Abdiel 👋
 
-I'm a software engineer in South San Francisco building interactive web applications, AI prototypes, and Python automation. I like taking a workflow with too many manual steps and turning it into something people can understand and use.
+A software engineer, curious builder, and programming educator from South San Francisco. I enjoy figuring out how things work, turning ideas into something you can click, and helping others build their first project.
 
-At **LinkedIn**, I worked as a **GPO MarTech Intern**, delivering **18 tools and prototypes** across marketing technology, automation, and developer workflows. My work included a Node.js monitoring dashboard, API integrations, and Claude-powered campaign prototypes. Most of that work is internal; the projects below show what I'm building independently.
+My path has taken me from teaching Python and wiring Arduino projects with students to building marketing tools at LinkedIn. These days, I'm exploring interactive learning, AI agents, and useful automation. I like projects where I can connect the interface, the code, and the person using it.
 
-Before that, I wrote Python enrollment-processing scripts and taught programming as a **Program Assistant at CAM EDU**. At **Dev/Mission**, I guided students through hands-on IoT projects and helped troubleshoot their work. Teaching still shapes how I build: make the system understandable, give useful feedback, and help people see what happens next.
+- 🛠️ **Building:** Pattern Learn, agent workflows, and tools that simplify everyday work.
+- 🌱 **Learning:** Computer science at Foothill College, one concept and experiment at a time.
+- 💬 **Talk to me about:** web apps, AI prototypes, IoT, or making technical ideas easier to understand.
+
+## My toolbox
+
+<p align="center">
+<img src="assets/python.svg" width="44" height="44" alt="Python" title="Python" /> &nbsp;
+<img src="assets/javascript.svg" width="44" height="44" alt="JavaScript" title="JavaScript" /> &nbsp;
+<img src="assets/typescript.svg" width="44" height="44" alt="TypeScript" title="TypeScript" /> &nbsp;
+<img src="assets/java.svg" width="44" height="44" alt="Java" title="Java" /> &nbsp;
+<img src="assets/cplusplus.svg" width="44" height="44" alt="C++" title="C++" /> &nbsp;
+<img src="assets/html5.svg" width="44" height="44" alt="HTML" title="HTML" /> &nbsp;
+<img src="assets/css3.svg" width="44" height="44" alt="CSS" title="CSS" /> &nbsp;
+<img src="assets/react.svg" width="44" height="44" alt="React" title="React" /> &nbsp;
+<img src="assets/nodejs.svg" width="44" height="44" alt="Node.js" title="Node.js" /> &nbsp;
+<img src="assets/git.svg" width="44" height="44" alt="Git" title="Git" /> &nbsp;
+<img src="assets/arduino.svg" width="44" height="44" alt="Arduino" title="Arduino" /> &nbsp;
+</p>
+<p align="center"><sub>Python · JavaScript · TypeScript · Java · C++ · HTML · CSS · React · Node.js · Git · Arduino</sub></p>
 
 ## Selected work
 
@@ -47,18 +67,10 @@ Before that, I wrote Python enrollment-processing scripts and taught programming
 </tr>
 </table>
 
-## What I work with
+## Let's connect
 
-| Area | Technologies |
-| :--- | :--- |
-| Languages | Python · TypeScript · JavaScript · SQL · HTML · CSS |
-| Web applications | React · Node.js · Vite · Flask · SQLite |
-| AI and integrations | Claude APIs · Claude Code · MCP · REST APIs · WebSocket · Zod |
-| Deployment and testing | AWS S3 · CloudFront · ACM · Git · Playwright |
-| Hardware and teaching | Arduino / C++ · micro:bit · Tinkercad · IoT projects |
+I'm open to software engineering and AI prototyping opportunities, and always happy to talk about what I'm building.
 
-## A little more about me
+[LinkedIn](https://www.linkedin.com/in/abdiel-picado/) · [X / @abdithenice](https://x.com/abdithenice) · [Portfolio](https://apicad.github.io/)
 
-I'm studying computer science at Foothill College and building on experience across software development, technical support, and programming instruction. I'm especially interested in tools that make learning easier and AI workflows whose behavior people can inspect.
-
-Open to software engineering and AI prototyping opportunities. The best place to reach me is [LinkedIn](https://www.linkedin.com/in/abdiel-picado/).
+<sub>Technology icons by <a href="https://github.com/devicons/devicon">Devicon</a>.</sub>

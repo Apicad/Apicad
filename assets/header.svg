@@ -1,10 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Abdiel Picado, Software Engineer">
-<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101c30"/><stop offset="1" stop-color="#12373d"/></linearGradient></defs>
-<rect width="1200" height="280" rx="18" fill="url(#bg)"/>
-<g fill="none" stroke="#58d7bd" stroke-opacity=".25" stroke-width="2"><path d="M840 65h100v75h120v70h85"/><path d="M900 210v-70h-90"/><path d="M1010 30v50h110"/></g>
-<g fill="#58d7bd"><circle cx="840" cy="65" r="6"/><circle cx="940" cy="140" r="6"/><circle cx="1060" cy="210" r="6"/><circle cx="900" cy="210" r="6"/><circle cx="1120" cy="80" r="6"/></g>
-<text x="52" y="66" fill="#6de2c8" font-family="Arial,sans-serif" font-size="16" letter-spacing="4">BUILD · CONNECT · ITERATE</text>
-<text x="48" y="142" fill="#ffffff" font-family="Arial,sans-serif" font-size="60" font-weight="700">Abdiel Picado</text>
-<text x="52" y="188" fill="#dbe6f1" font-family="Arial,sans-serif" font-size="26">Software Engineer</text>
-<text x="52" y="232" fill="#9db7c7" font-family="Arial,sans-serif" font-size="20">Interactive apps. AI prototypes. Practical automation.</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Hey, I'm Abdiel. Stay curious. Build something. Share what you learn.">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#211c40"/><stop offset="1" stop-color="#102c40"/></linearGradient><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#fff" opacity=".09"/></pattern></defs>
+<style>@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}.float{animation:float 5s ease-in-out infinite}@media(prefers-reduced-motion:reduce){.float{animation:none}}</style>
+<rect width="1200" height="340" rx="22" fill="url(#bg)"/><rect width="1200" height="340" rx="22" fill="url(#grid)"/>
+<circle cx="1120" cy="15" r="130" fill="#9a7efa" opacity=".13"/><circle cx="60" cy="340" r="110" fill="#65dfcb" opacity=".09"/>
+<text x="55" y="65" fill="#a9e7df" font-family="Arial,sans-serif" font-size="17" letter-spacing="3">WELCOME TO MY CORNER OF GITHUB</text>
+<text x="50" y="144" fill="#fff4d7" font-family="Arial,sans-serif" font-size="64" font-weight="700">Hey, I'm Abdiel.</text>
+<text x="55" y="190" fill="#c7b8ff" font-family="Arial,sans-serif" font-size="25">Engineer. Educator. Curious builder.</text>
+<text x="55" y="248" fill="#e3e8f3" font-family="Arial,sans-serif" font-size="21">Stay curious. Build something.</text>
+<text x="55" y="281" fill="#e3e8f3" font-family="Arial,sans-serif" font-size="21">Share what you learn.</text>
+<g class="float"><rect x="805" y="73" width="300" height="194" rx="14" fill="#141b2d" stroke="#a898e5" stroke-width="3"/><path d="M805 112h300" stroke="#4a416b" stroke-width="2"/>
+<circle cx="827" cy="93" r="5" fill="#ff8c9e"/><circle cx="846" cy="93" r="5" fill="#f6d27b"/><circle cx="865" cy="93" r="5" fill="#70dbc3"/>
+<text x="832" y="153" fill="#c9b5ff" font-family="monospace" font-size="20">idea = curiosity</text>
+<text x="832" y="189" fill="#71e0c4" font-family="monospace" font-size="20">build(idea)</text>
+<text x="832" y="225" fill="#f6d27b" font-family="monospace" font-size="20">learn → repeat</text></g>
+<g fill="none" stroke="#f6d27b" stroke-width="3"><path d="M750 65v24m-12-12h24"/><path d="M1130 270v24m-12-12h24"/><path d="M730 235l12 12-12 12"/></g>
 </svg>
