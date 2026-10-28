@@ -39,7 +39,7 @@ My path has taken me from teaching Python and wiring Arduino projects with stude
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://patternlearn.com"><img src="assets/patternlearn.jpg" alt="Pattern Learn interactive algorithm visualizer" width="100%" /></a>
+<a href="https://patternlearn.com"><img src="assets/patternlearn-current.png" alt="Pattern Learn interactive algorithm visualizer" width="100%" /></a>
 <h3>Pattern Learn</h3>
 <p>Explore algorithms through synchronized code, variables, and execution steps. Built with React and Vite, deployed on AWS with S3, CloudFront, and ACM.</p>
 <p><b>Live application</b> · <a href="https://patternlearn.com">Try it →</a></p>
