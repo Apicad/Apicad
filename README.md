@@ -14,7 +14,7 @@ I'm a software engineer and a curious builder, always looking to learn something
 I'm interested in AI engineering, automation, and interactive applications. I like exploring different approaches, asking questions, and learning as I build.
 
 - 🛠️ **Building:** Pattern Learn, agent workflows, and tools that simplify everyday work.
-- 🌱 **Learning:** Computer science at Foothill College, one concept and experiment at a time.
+- 🌱 **Learning:** Exploring new technologies, one concept and experiment at a time.
 - 💬 **Talk to me about:** web apps, AI prototypes, IoT, or making technical ideas easier to understand.
 
 ## My toolbox
