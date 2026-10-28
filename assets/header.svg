@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Abdiel Picado, Software Engineer">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101c30"/><stop offset="1" stop-color="#12373d"/></linearGradient></defs>
+<rect width="1200" height="280" rx="18" fill="url(#bg)"/>
+<g fill="none" stroke="#58d7bd" stroke-opacity=".25" stroke-width="2"><path d="M840 65h100v75h120v70h85"/><path d="M900 210v-70h-90"/><path d="M1010 30v50h110"/></g>
+<g fill="#58d7bd"><circle cx="840" cy="65" r="6"/><circle cx="940" cy="140" r="6"/><circle cx="1060" cy="210" r="6"/><circle cx="900" cy="210" r="6"/><circle cx="1120" cy="80" r="6"/></g>
+<text x="52" y="66" fill="#6de2c8" font-family="Arial,sans-serif" font-size="16" letter-spacing="4">BUILD · CONNECT · ITERATE</text>
+<text x="48" y="142" fill="#ffffff" font-family="Arial,sans-serif" font-size="60" font-weight="700">Abdiel Picado</text>
+<text x="52" y="188" fill="#dbe6f1" font-family="Arial,sans-serif" font-size="26">Software Engineer</text>
+<text x="52" y="232" fill="#9db7c7" font-family="Arial,sans-serif" font-size="20">Interactive apps. AI prototypes. Practical automation.</text>
+</svg>
