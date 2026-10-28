@@ -1,4 +1,4 @@
-<img src="assets/pixel-builder.svg" width="100%" alt="Hey, I am Abdiel. Engineer, educator, and curious builder." />
+<img src="assets/pixel-builder-warm.svg" width="100%" alt="Hey, I am Abdiel. Engineer, educator, and curious builder." />
 
 <p align="center">
   <a href="https://patternlearn.com"><b>Try Pattern Learn</b></a> &nbsp; · &nbsp;
